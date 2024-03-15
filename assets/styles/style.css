@@ -1,0 +1,146 @@
+*{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+body{
+    background-color: #1B1C31;
+}
+.header{
+
+padding-right: 15px;
+padding-left: 15px;
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    background-color: #222338;
+    
+}
+.img{
+    padding:94px 70px;
+}
+li{
+    list-style: none;
+    display: inline-block; 
+    color: white;
+    padding-right:700px;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.images{
+    padding-right: 24px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #222338;
+    border-radius: 10px;
+    height: 80px;
+}
+.btn{
+padding: 12px 21px;
+color: white;
+background-color: #1B1C31;
+border-radius: 10px;
+}
+.btn1{
+    padding: 12px 21px;
+    color: white;
+    background-color: #1B1C31;
+    border-radius: 10px;
+    
+    
+}
+.icon{
+    padding-right: 11px;
+}
+form{
+    padding-left: 410px;
+    padding-right: 560px;
+}
+input{
+    padding: 18px 104px 18px 18px;
+    color: white;
+    background-color: #1B1C31;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.parag{
+    color: rgb(255, 255, 255);
+    padding-left: 90px;
+    font-size:24px ;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.bar{
+    padding-right: 12px;
+    height: 18px;
+    width: 18px;
+}
+.navigation{
+    background-color: #222338;
+    height: 520px;
+    width: 340px;
+    display: inline-block;
+    border-radius: 10px;
+    
+    padding-bottom:10px;
+}
+.parag1{
+    color: rgb(255, 255, 255);
+    padding-left: 90px;
+    font-size:24px ;
+    font-weight: 500;
+    background-color: aqua;
+    border-radius: 20px;
+    padding-top:10px;
+    padding-bottom: 3px;
+    
+}
+.content{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  
+}
+.contentimg{
+padding-left: 801px;
+padding-bottom:80px;
+}
+.pc{
+    padding-bottom: 90px;
+    padding-left: 10px;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    font-size: 16px;
+    
+}
+.follow{
+    color: #546FFF;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    padding-left: 80px;
+   
+}
+.paa{
+    color:white;
+   
+
+}
+.gg{
+    padding-left: 400px;
+}
+
+
+
